@@ -1,0 +1,29 @@
+#countlbl{
+    display: block;
+    text-align: center;
+    font-size: 100px;
+}
+#increase{
+    background-color: green;
+padding: 1%;
+
+}
+#reset{
+    background-color: blanchedalmond;
+    padding: 1%;
+}
+#decrease{
+    background-color:red ;
+    padding: 1%;
+}
+#div1{
+    display: flex;
+    justify-content: center;
+    
+}
+button{
+    margin-right: 10px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 400;
+}
